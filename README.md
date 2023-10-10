@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJS, Node.js**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java, JavaScript**
 
 - 📫 How to reach me **hizbusoftware@gmail.com**
 
