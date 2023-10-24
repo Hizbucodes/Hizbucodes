@@ -1,7 +1,7 @@
 ![MasterHead](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
-<h1 align="center">Hi 👋, I'm Hizbullah Razik</h1>
+<h1 align="center">Hi 👋, I'm Hizbullah Razik</h1> 
 <h3 align="center">Aspiring Full Stack Developer From Srilanka</h3>
-<img align="right" width="400" <iframe src="https://giphy.com/embed/ZVik7pBtu9dNS" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS">via GIPHY</a></p>
+<img align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hizbucodes&label=Profile%20views&color=0e75b6&style=flat" alt="hizbucodes" /> </p>
 
