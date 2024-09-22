@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/hizbullah" target="blank"><img src="https://img.shields.io/twitter/follow/hizbullah?logo=twitter&style=for-the-badge" alt="hizbullah" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS, Node.js**
+- 🌱 I’m currently learning **AI/ML**
 
-- 💬 Ask me about **Java, JavaScript**
+- 💬 Ask me about **Java, Spring Boot**
 
 - 📫 How to reach me **hizbusoftware@gmail.com**
 
