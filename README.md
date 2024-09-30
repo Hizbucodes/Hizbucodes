@@ -1,6 +1,6 @@
 ![MasterHead](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
-<h1 align="center">Hi 👋, I'm Hizbullah Razik</h1> 
-<h3 align="center">Aspiring Full Stack Developer From Srilanka</h3>
+<h1 align="center">Hi 👋, I'm Hizbullah</h1> 
+<h3 align="center">Java Full Stack Developer</h3>
 <img align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hizbucodes&label=Profile%20views&color=0e75b6&style=flat" alt="hizbucodes" /> </p>
