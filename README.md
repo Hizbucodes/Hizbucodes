@@ -1,8 +1,7 @@
 ![MasterHead](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 <h1 align="center">Hi 👋, I'm Hizbullah</h1> 
 <h3 align="center">Software Engineer</h3>
-<img align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/
-
+<img height="300" width="400" align="right" src="https://i.giphy.com/78XCFBGOlS6keY1Bil.webp"/
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hizbucodes&label=Profile%20views&color=0e75b6&style=flat" alt="hizbucodes" /> </p>
@@ -34,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hizbucodes&show_icons=true&locale=en" alt="hizbucodes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hizbucodes&" alt="hizbucodes" /></p>
+
+<img align="center" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"/>
