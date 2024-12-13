@@ -33,5 +33,5 @@
 <br/><br/><br/><br/><br/><br/><br/>
 <h1 align="left">My Statistics</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hizbucodes&show_icons=true&locale=en" alt="hizbucodes" /></p>
-
+<br/>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hizbucodes&" alt="hizbucodes" /></p>
