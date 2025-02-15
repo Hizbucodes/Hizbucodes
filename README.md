@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/hizbullah" target="blank"><img src="https://img.shields.io/twitter/follow/hizbullah?logo=twitter&style=for-the-badge" alt="hizbullah" /></a> </p>
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **C#, .NET**
 
-- 💬 Ask me about **Java, Spring Boot**
+- 💬 Ask me about **React, React Native**
 
 - 📫 How to reach me **hizbusoftware@gmail.com**
 <br/><br/><br/><br/><br/>
