@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/hizbullah" target="blank"><img src="https://img.shields.io/twitter/follow/hizbullah?logo=twitter&style=for-the-badge" alt="hizbullah" /></a> </p>
 
-- 🌱 I’m currently learning **C#, .NET**
+- 🌱 I’m currently learning **Mobile Development**
 
-- 💬 Ask me about **React, React Native**
+- 💬 Ask me about **App Developemnt**
 
 - 📫 How to reach me **hizbusoftware@gmail.com**
 <br/><br/><br/><br/><br/>
