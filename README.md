@@ -24,7 +24,7 @@ const role = {
     "RTK"
   ]
 };
-
+```
 - 💬 Ask me about **App Developemnt**
 
 - 📫 How to reach me **hizbullahrazik@gmail.com**
