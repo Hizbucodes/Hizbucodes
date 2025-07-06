@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/hizbullah" target="blank"><img src="https://img.shields.io/twitter/follow/hizbullah?logo=twitter&style=for-the-badge" alt="hizbullah" /></a> </p>
 
-- 🌱 I’m currently learning **Mobile Development**
+- 🌱 const role = {title: "Full Stack Mobile Dev", skills:["React Native", "TypeScript", "Node", "Express", "MongoDB", "PostgreSQL", "Expo", "RTK"]}
 
 - 💬 Ask me about **App Developemnt**
 
-- 📫 How to reach me **hizbusoftware@gmail.com**
+- 📫 How to reach me **hizbullahrazik@gmail.com**
 <br/><br/><br/><br/><br/>
 <h1 align="left">Connect with me:</h1>
 <p align="left">
