@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/hizbullah" target="blank"><img src="https://img.shields.io/twitter/follow/hizbullah?logo=twitter&style=for-the-badge" alt="hizbullah" /></a> </p>
 
-- 🌱 const role = {title: "Full Stack Mobile Dev", skills:["React Native", "TypeScript", "Node", "Express", "MongoDB", "PostgreSQL", "Expo", "RTK"]}
+- 🌱 <pre> ```javascript const role = { title: "Full Stack Mobile Dev", skills: [ "React Native", "TypeScript", "Node", "Express", "MongoDB", "PostgreSQL", "Expo", "RTK" ] }; ``` </pre>
 
 - 💬 Ask me about **App Developemnt**
 
