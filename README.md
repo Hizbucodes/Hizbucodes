@@ -14,17 +14,30 @@
 const role = {
   title: "Full Stack Mobile Dev",
   skills: [
+    // Frontend & Mobile
     "React Native",
+    "Expo",
     "TypeScript",
+    "RTK",
+
+    // Backend
     "Node",
     "Express",
+
+    // Databases
     "MongoDB",
     "PostgreSQL",
-    "Expo",
-    "RTK"
+    "Firebase",
+
+    // DevOps & Cloud
+    "Docker",
+    "AWS",
+
+    // Design & Prototyping
+    "Figma"
   ]
 };
-```
+
 - 💬 Ask me about **App Developemnt**
 
 - 📫 How to reach me **hizbullahrazik@gmail.com**
