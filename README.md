@@ -23,6 +23,7 @@ const role = {
     "MongoDB",
     "PostgreSQL",
     "Firebase",
+    "Supabase",
     "Docker",
     "AWS",
     "Figma"
