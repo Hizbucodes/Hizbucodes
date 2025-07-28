@@ -13,11 +13,14 @@
 ```javascript
 const role = {
   title: "Full Stack Mobile Dev",
+  const role = {
+  title: "Full Stack Mobile Dev",
   skills: [
     "React Native",
     "Expo",
     "TypeScript",
     "RTK",
+    "TanStack Query",
     "Node",
     "Express",
     "MongoDB",
@@ -28,6 +31,8 @@ const role = {
     "AWS",
     "Figma"
   ]
+};
+
 };
 ```
 - 💬 Ask me about **App Developemnt**
