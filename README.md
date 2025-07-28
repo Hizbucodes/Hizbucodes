@@ -19,7 +19,7 @@ const role = {
     "React Native",
     "Expo",
     "TypeScript",
-    "RTK",
+    "Redux Toolkit",
     "TanStack Query",
     "Node",
     "Express",
