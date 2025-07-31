@@ -11,7 +11,7 @@
 ## 💻 Role Definition
 
 ```javascript
-const role = {
+const background = {
   title: "Full Stack Mobile Dev",
   const role = {
   title: "Full Stack Mobile Dev",
