@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hizbucodes" alt="hizbucodes" /></a> </p>
 
-- 🌱 I’m currently learning **C# & .NET**
+- 🌱 I’m currently learning **Angular**
 
 - 📝 I regularly write articles on [https://medium.com/@hizbusoftware](https://medium.com/@hizbusoftware)
 
-- 💬 Ask me about **React, React Native**
+- 💬 Ask me about **C#, .NET, React**
 
 - 📫 How to reach me **hizbullahrazik@gmail.com**
 
