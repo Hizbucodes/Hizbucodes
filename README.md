@@ -17,7 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://medium.com/@hizbusoftware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hizbusoftware" height="30" width="40" /></a>
+<a href="https://medium.com/@hizbusoftware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hizbusoftware" height="40" width="40" /></a>
+   <a href="https://www.linkedin.com/in/hizbullah-razik/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="@hizbusoftware" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
