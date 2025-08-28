@@ -3,7 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hizbucodes&label=Profile%20views&color=0e75b6&style=flat" alt="hizbucodes" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hizbucodes" alt="hizbucodes" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Hizbucodes&theme=onedark&row=1&column=6" alt="Hizbucodes Trophies" />
+  </a>
+</p>
+
 
 - 🌱 I’m currently learning **Angular**
 
