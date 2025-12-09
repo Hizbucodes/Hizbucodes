@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Azure**
 
-- 📝 I write articles on [https://medium.com/@hizbusoftware](https://medium.com/@hizbusoftware)
+- 📝 I write articles on [https://medium.com/@hizbusoftware](https://medium.com/@Hizbullah_Razik)
 
 - 💬 Ask me about **C#, ASP.NET Core, ASP.NET Core MVC, and React**
 
