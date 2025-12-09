@@ -10,11 +10,11 @@
 </p>
 
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Azure**
 
 - 📝 I regularly write articles on [https://medium.com/@hizbusoftware](https://medium.com/@hizbusoftware)
 
-- 💬 Ask me about **C#, .NET, and React**
+- 💬 Ask me about **C#, ASP.NET Core, ASP.NET Core MVC, and React**
 
 - 📫 How to reach me **hizbullahrazik@gmail.com**
 
