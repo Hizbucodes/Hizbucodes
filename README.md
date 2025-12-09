@@ -14,7 +14,7 @@
 
 - 📝 I write articles on [Medium](https://medium.com/@Hizbullah_Razik)
 
-- 💬 Ask me about **C#, ASP.NET Core, ASP.NET Core MVC, and React**
+- 💬 Ask me about **C#, ASP.NET Core, ASP.NET Core MVC, SQL, and React**
 
 - 📫 How to reach me **hizbullahrazik@gmail.com**
 
